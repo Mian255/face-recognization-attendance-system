@@ -1,0 +1,11 @@
+Install All the modules mentioned below 
+
+py -m pip install tk-tools
+py -m pip install opencv-contrib-python
+py -m pip install datetime
+py -m pip install pytest-shutil
+py -m pip install python-csv
+py -m pip install numpy
+py -m pip install pillow 
+py -m pip install pandas
+py -m pip install times
